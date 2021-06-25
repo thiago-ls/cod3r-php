@@ -42,6 +42,7 @@
               <li><a href="exercicio.php?dir=tipos&file=strings">Strings</a></li>              
               <li><a href="exercicio.php?dir=tipos&file=desafio_strings">Desafio Strings</a></li>              
               <li><a href="exercicio.php?dir=tipos&file=booleano">Tipo Booleano</a></li>              
+              <li><a href="exercicio.php?dir=tipos&file=conversao_tipos">Conversão Tipos</a></li>              
             </ul>
           </div>
          
